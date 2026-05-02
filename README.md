@@ -4,8 +4,8 @@ Trabalho desenvolvido originalmente para a Faculdade Estácio de Sá em 2023 e a
 ## 📖 Descrição Técnica
 Este projeto evoluiu de um trabalho acadêmico para uma aplicação robusta de gestão escolar. O sistema agora integra:
 * **Relatórios Avançados:** Geração de PDF (iText) em modo paisagem com 6 colunas, otimizado para grandes volumes de dados.
-* **Ficha de Emergência:** Campos dedicados para alergias e observações pedagógicas detalhadas (TDAH, protocolos de medicação).[cite: 1, 2]
-* **Persistência de Imagens:** Gerenciamento de fotos diretamente no banco de dados MySQL via Blobs.[cite: 1, 2]
+* **Ficha de Emergência:** Campos dedicados para alergias e observações pedagógicas detalhadas (TDAH, protocolos de medicação).
+* **Persistência de Imagens:** Gerenciamento de fotos diretamente no banco de dados MySQL via Blobs.
 
 ## 🖼️ Screenshots do Sistema (Versão 2023)
 Aqui você mantém os seus links originais para não perder o histórico do projeto:
