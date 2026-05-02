@@ -1,0 +1,9 @@
+# Ignorar metadados do Eclipse
+.metadata/
+.recommenders/
+bin/
+*.class
+
+# Ignorar arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
