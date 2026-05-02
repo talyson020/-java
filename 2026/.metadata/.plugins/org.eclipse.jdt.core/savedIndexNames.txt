@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+D:\Talyson\OneDrive\Área de Trabalho\Faculdade\Java\Projeto entrada e saida de crianças\Trabalho Final\carômetroEscolarPronto\Carometro\.metadata\.plugins\org.eclipse.jdt.core
+1174305925.index
+4262551178.index
