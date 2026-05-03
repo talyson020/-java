@@ -15,10 +15,12 @@ Aqui você mantém os seus links originais para não perder o histórico do proj
 ![image](https://github.com/talyson020/-java/assets/34663266/27703153-5145-4149-aea2-cf97a770fd6e)
 ![image](https://github.com/talyson020/-java/assets/34663266/e2e68d1f-9c20-4c7c-bbd8-b64fbdd062b3)
 ![image](https://github.com/talyson020/-java/assets/34663266/bddeb3c6-aafa-4d96-9263-4dfc790d8f30)
+ Exportação e importação do banco de dados<img width="966" height="576" alt="image" src="https://github.com/user-attachments/assets/0e3ddd6b-a03c-4cd4-bd8c-7b8d832265e6" />
+
 
 ## 🛠️ Tecnologias Utilizadas
-* **Java Swing & JDBC**[<img width="989" height="592" alt="image" src="https://github.com/user-attachments/assets/06749874-3a07-45ea-bdc4-d5fb5fab8096" />] 
+* **Java Swing & JDBC**<img width="989" height="592" alt="image" src="https://github.com/user-attachments/assets/06749874-3a07-45ea-bdc4-d5fb5fab8096" /> 
 
 * **MySQL:** Banco de dados relacional utilizado para persistência de dados, incluindo o armazenamento de imagens via tipos `LONGBLOB` e textos de observações sensíveis.
 ![image](https://github.com/talyson020/-java/assets/34663266/bddeb3c6-aafa-4d96-9263-4dfc790d8f30)
-* **iText (PDF Reporting)** [<img width="1853" height="770" alt="image" src="https://github.com/user-attachments/assets/dcba5b39-7715-4167-9c43-ef3a84ffd35a" />]
+* **iText (PDF Reporting)** <img width="1853" height="770" alt="image" src="https://github.com/user-attachments/assets/dcba5b39-7715-4167-9c43-ef3a84ffd35a" />
