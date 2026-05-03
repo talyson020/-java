@@ -15,7 +15,9 @@ Aqui você mantém os seus links originais para não perder o histórico do proj
 ![image](https://github.com/talyson020/-java/assets/34663266/27703153-5145-4149-aea2-cf97a770fd6e)
 ![image](https://github.com/talyson020/-java/assets/34663266/e2e68d1f-9c20-4c7c-bbd8-b64fbdd062b3)
 ![image](https://github.com/talyson020/-java/assets/34663266/bddeb3c6-aafa-4d96-9263-4dfc790d8f30)
- Exportação e importação do banco de dados<img width="966" height="576" alt="image" src="https://github.com/user-attachments/assets/0e3ddd6b-a03c-4cd4-bd8c-7b8d832265e6" />
+
+ Exportação e importação do banco de dados
+ <img width="966" height="576" alt="image" src="https://github.com/user-attachments/assets/0e3ddd6b-a03c-4cd4-bd8c-7b8d832265e6" />
 
 
 ## 🛠️ Tecnologias Utilizadas
